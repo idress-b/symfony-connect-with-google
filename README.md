@@ -4,7 +4,9 @@ This repository is an exemple of how to implement connection with google APi
 
 ## step 1: install the project
 
+```sh
 composer install
+```
 
 ## step2 : your Google API setting
 
